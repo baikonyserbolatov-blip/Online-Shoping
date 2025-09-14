@@ -155,7 +155,7 @@
     <h1>Каталог косметики</h1>
     <div class="products">
       <div class="product">
-        <img src="![Unknown](https://github.com/user-attachments/assets/4b53dc93-b5ce-4139-9ea7-befbad64786a)
+        <img src="https://www.google.com/imgres?q=увлажняющий%20крем%20фото&imgurl=https%3A%2F%2Fimgproxy.cdn-tinkoff.ru%2Ft_device_1920_x2%2FaHR0cHM6Ly9wdWJsaWMtc3RhdGljLnRpbmtvZmZqb3VybmFsLnJ1L2RvbHlhbWUvdXBsb2Fkcy8yMDI0LzA4L1VvVHRnWDVmLWNvdmVyLWgucG5n&imgrefurl=https%3A%2F%2Fdolyame.ru%2Fmedia%2Fbest-face-moisturizers%2F&docid=FGviJjlpXGySSM&tbnid=0J5s_OIa3SSCXM&vet=12ahUKEwjD14jSytePAxVPHhAIHargAP0QM3oECBQQAA..i&w=3840&h=2122&hcb=2&ved=2ahUKEwjD14jSytePAxVPHhAIHargAP0QM3oECBQQAA<img width="302" height="167" alt="image" src="https://github.com/user-attachments/assets/9e8087b1-2fad-4d0d-a8d6-fcb24d3caaaa" />
 " alt="Крем">
         <h3>Увлажняющий крем</h3>
         <p class="price">2500 ₸</p>
