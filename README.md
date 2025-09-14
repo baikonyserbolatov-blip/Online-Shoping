@@ -155,7 +155,7 @@
     <h1>Каталог косметики</h1>
     <div class="products">
       <div class="product">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdolyame.ru%2Fmedia%2Fbest-face-moisturizers%2F&psig=AOvVaw1VxcbFg1wzQTZipP4r1cEA&ust=1757916670903000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIi4movM148DFQAAAAAdAAAAABAE" alt="Крем">
+        <img src="https://share.google/images/FEdxqLitoKeohV14h" alt="Крем">
         <h3>Увлажняющий крем</h3>
         <p class="price">2500 ₸</p>
         <button onclick="addToCart('Увлажняющий крем', 2500)">В корзину</button>
