@@ -196,8 +196,7 @@
         <button onclick="addToCart('Сыворотка для лица', 4200)">В корзину</button>
       </div>
       <div class="product">
-        <img src="![1-2](https://github.com/user-attachments/assets/2ba66631-3354-427b-ada6-2697a674e189)
-" alt="Пудра">
+        <img src="https://github.com/baikonyserbolatov-blip/projectHTML..../blob/main/img/1-2.webp?raw=true" alt="Пудра">
         <h3>Пудра</h3>
         <p class="price">2100 ₸</p>
         <button onclick="addToCart('Пудра', 2100)">В корзину</button>
