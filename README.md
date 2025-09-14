@@ -179,8 +179,7 @@
         <button onclick="addToCart('Тональный крем', 3000)">В корзину</button>
       </div>
       <div class="product">
-        <img src="<img width="900" height="623" alt="Day_Dreams_Ð¡Ð¶Ð°ÑÑÐµ" src="https://github.com/user-attachments/assets/a87ec696-ceeb-4cf0-9d2e-b4f895b12b8a" />
-" alt="Парфюм">
+        <img src="https://github.com/baikonyserbolatov-blip/projectHTML..../blob/main/square_320_1a2a9f47239a9155dc710977ed16913e.jpg?raw=true" alt="Парфюм">
         <h3>Парфюм</h3>
         <p class="price">7500 ₸</p>
         <button onclick="addToCart('Парфюм', 7500)">В корзину</button>
