@@ -155,61 +155,71 @@
     <h1>Каталог косметики</h1>
     <div class="products">
       <div class="product">
-        <img src="https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80" alt="Крем">
+        <img src="![Unknown](https://github.com/user-attachments/assets/4b53dc93-b5ce-4139-9ea7-befbad64786a)
+" alt="Крем">
         <h3>Увлажняющий крем</h3>
         <p class="price">2500 ₸</p>
         <button onclick="addToCart('Увлажняющий крем', 2500)">В корзину</button>
       </div>
       <div class="product">
-        <img src="https://images.unsplash.com/photo-1585386959984-a41552262d8e?auto=format&fit=crop&w=600&q=80" alt="Помада">
+        <img src="<img width="3840" height="2122" alt="ZqVuY8eN-cover-h" src="https://github.com/user-attachments/assets/694cea38-b033-429a-8b57-27df8d2c58e5" />
+" alt="Помада">
         <h3>Губная помада</h3>
         <p class="price">1800 ₸</p>
         <button onclick="addToCart('Губная помада', 1800)">В корзину</button>
       </div>
       <div class="product">
-        <img src="https://images.unsplash.com/photo-1585386957440-6a6fc973ee12?auto=format&fit=crop&w=600&q=80" alt="Тушь">
+        <img src="![7247378782](https://github.com/user-attachments/assets/10f36daa-8d6d-4bdd-b415-57bcce331e9d)
+" alt="Тушь">
         <h3>Тушь для ресниц</h3>
         <p class="price">2200 ₸</p>
         <button onclick="addToCart('Тушь для ресниц', 2200)">В корзину</button>
       </div>
       <div class="product">
-        <img src="https://images.unsplash.com/photo-1585386953920-79e789c5ff36?auto=format&fit=crop&w=600&q=80" alt="Тональный крем">
+        <img src="![cubs6ilj9qme4hnpc75g](https://github.com/user-attachments/assets/23f59328-d382-4725-8ad1-8612d75486ac)
+" alt="Тональный крем">
         <h3>Тональный крем</h3>
         <p class="price">3000 ₸</p>
         <button onclick="addToCart('Тональный крем', 3000)">В корзину</button>
       </div>
       <div class="product">
-        <img src="https://images.unsplash.com/photo-1600185365483-26d9c74c7f5f?auto=format&fit=crop&w=600&q=80" alt="Парфюм">
+        <img src="<img width="900" height="623" alt="Day_Dreams_Ð¡Ð¶Ð°ÑÑÐµ" src="https://github.com/user-attachments/assets/a87ec696-ceeb-4cf0-9d2e-b4f895b12b8a" />
+" alt="Парфюм">
         <h3>Парфюм</h3>
         <p class="price">7500 ₸</p>
         <button onclick="addToCart('Парфюм', 7500)">В корзину</button>
       </div>
       <div class="product">
-        <img src="https://images.unsplash.com/photo-1612817159949-d7b8adf94774?auto=format&fit=crop&w=600&q=80" alt="Сыворотка">
+        <img src="![1](https://github.com/user-attachments/assets/153e53f9-f939-4852-8b61-fa807c299ef9)
+" alt="Сыворотка">
         <h3>Сыворотка для лица</h3>
         <p class="price">4200 ₸</p>
         <button onclick="addToCart('Сыворотка для лица', 4200)">В корзину</button>
       </div>
       <div class="product">
-        <img src="https://images.unsplash.com/photo-1585386956563-5e8a4e4e6b4b?auto=format&fit=crop&w=600&q=80" alt="Пудра">
+        <img src="![1-2](https://github.com/user-attachments/assets/2ba66631-3354-427b-ada6-2697a674e189)
+" alt="Пудра">
         <h3>Пудра</h3>
         <p class="price">2100 ₸</p>
         <button onclick="addToCart('Пудра', 2100)">В корзину</button>
       </div>
       <div class="product">
-        <img src="https://images.unsplash.com/photo-1600185365739-61ab9d8fba07?auto=format&fit=crop&w=600&q=80" alt="Лак для ногтей">
+        <img src="![Kachel_Nail-Polish-Trends](https://github.com/user-attachments/assets/20ced9a7-1900-44c6-b4c6-93ca88b29ed4)
+" alt="Лак для ногтей">
         <h3>Лак для ногтей</h3>
         <p class="price">900 ₸</p>
         <button onclick="addToCart('Лак для ногтей', 900)">В корзину</button>
       </div>
       <div class="product">
-        <img src="https://images.unsplash.com/photo-1612817159278-6db9fee9601e?auto=format&fit=crop&w=600&q=80" alt="Карандаш для глаз">
+        <img src="![post](https://github.com/user-attachments/assets/7ef2269a-5387-4ec2-a8ac-bcb0a4123c93)
+" alt="Карандаш для глаз">
         <h3>Карандаш для глаз</h3>
         <p class="price">1500 ₸</p>
         <button onclick="addToCart('Карандаш для глаз', 1500)">В корзину</button>
       </div>
       <div class="product">
-        <img src="https://images.unsplash.com/photo-1585386959851-f4d6e8e2c57a?auto=format&fit=crop&w=600&q=80" alt="Бальзам для губ">
+        <img src="![post-Blesk-Balzam-novyj-1](https://github.com/user-attachments/assets/4b9edb77-ca0e-4e6b-a778-c5f0eae34ee5)
+" alt="Бальзам для губ">
         <h3>Бальзам для губ</h3>
         <p class="price">1200 ₸</p>
         <button onclick="addToCart('Бальзам для губ', 1200)">В корзину</button>
