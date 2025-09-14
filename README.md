@@ -155,29 +155,29 @@
     <h1>Каталог косметики</h1>
     <div class="products">
       <div class="product">
-        <img src="https://www.google.com/imgres?q=увлажняющий%20крем%20фото&imgurl=https%3A%2F%2Fimgproxy.cdn-tinkoff.ru%2Ft_device_1920_x2%2FaHR0cHM6Ly9wdWJsaWMtc3RhdGljLnRpbmtvZmZqb3VybmFsLnJ1L2RvbHlhbWUvdXBsb2Fkcy8yMDI0LzA4L1VvVHRnWDVmLWNvdmVyLWgucG5n&imgrefurl=https%3A%2F%2Fdolyame.ru%2Fmedia%2Fbest-face-moisturizers%2F&docid=FGviJjlpXGySSM&tbnid=0J5s_OIa3SSCXM&vet=12ahUKEwjD14jSytePAxVPHhAIHargAP0QM3oECBQQAA..i&w=3840&h=2122&hcb=2&ved=2ahUKEwjD14jSytePAxVPHhAIHargAP0QM3oECBQQAA<img width="302" height="167" alt="image" src="https://github.com/user-attachments/assets/9e8087b1-2fad-4d0d-a8d6-fcb24d3caaaa" />
-" alt="Крем">
+        <img src="<img width="221" height="140" alt="image" src="https://github.com/user-attachments/assets/18d0f013-ec85-4bd3-ab35-66650093f7d7" />
+        " alt="Крем">
         <h3>Увлажняющий крем</h3>
         <p class="price">2500 ₸</p>
         <button onclick="addToCart('Увлажняющий крем', 2500)">В корзину</button>
       </div>
       <div class="product">
         <img src="<img width="3840" height="2122" alt="ZqVuY8eN-cover-h" src="https://github.com/user-attachments/assets/694cea38-b033-429a-8b57-27df8d2c58e5" />
-" alt="Помада">
+        " alt="Помада">
         <h3>Губная помада</h3>
         <p class="price">1800 ₸</p>
         <button onclick="addToCart('Губная помада', 1800)">В корзину</button>
       </div>
       <div class="product">
         <img src="![7247378782](https://github.com/user-attachments/assets/10f36daa-8d6d-4bdd-b415-57bcce331e9d)
-" alt="Тушь">
+          " alt="Тушь">
         <h3>Тушь для ресниц</h3>
         <p class="price">2200 ₸</p>
         <button onclick="addToCart('Тушь для ресниц', 2200)">В корзину</button>
       </div>
       <div class="product">
         <img src="![cubs6ilj9qme4hnpc75g](https://github.com/user-attachments/assets/23f59328-d382-4725-8ad1-8612d75486ac)
-" alt="Тональный крем">
+          " alt="Тональный крем">
         <h3>Тональный крем</h3>
         <p class="price">3000 ₸</p>
         <button onclick="addToCart('Тональный крем', 3000)">В корзину</button>
