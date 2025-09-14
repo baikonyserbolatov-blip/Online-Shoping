@@ -155,7 +155,8 @@
     <h1>Каталог косметики</h1>
     <div class="products">
       <div class="product">
-        <img src="https://share.google/images/FEdxqLitoKeohV14h" alt="Крем">
+        <img src="![Unknown](https://github.com/user-attachments/assets/bbff9d50-04d7-4142-a4f8-9f0a718dfd84)
+" alt="Крем">
         <h3>Увлажняющий крем</h3>
         <p class="price">2500 ₸</p>
         <button onclick="addToCart('Увлажняющий крем', 2500)">В корзину</button>
