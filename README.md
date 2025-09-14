@@ -161,22 +161,19 @@
         <button onclick="addToCart('Увлажняющий крем', 2500)">В корзину</button>
       </div>
       <div class="product">
-        <img src="<img width="3840" height="2122" alt="ZqVuY8eN-cover-h" src="https://github.com/user-attachments/assets/694cea38-b033-429a-8b57-27df8d2c58e5" />
-        " alt="Помада">
+        <img src="https://github.com/baikonyserbolatov-blip/projectHTML..../blob/main/img/ZqVuY8eN-cover-h.png?raw=true" alt="Помада">
         <h3>Губная помада</h3>
         <p class="price">1800 ₸</p>
         <button onclick="addToCart('Губная помада', 1800)">В корзину</button>
       </div>
       <div class="product">
-        <img src="![7247378782](https://github.com/user-attachments/assets/10f36daa-8d6d-4bdd-b415-57bcce331e9d)
-          " alt="Тушь">
+        <img src="https://github.com/baikonyserbolatov-blip/projectHTML..../blob/main/img/7247378782.jpg?raw=true" alt="Тушь">
         <h3>Тушь для ресниц</h3>
         <p class="price">2200 ₸</p>
         <button onclick="addToCart('Тушь для ресниц', 2200)">В корзину</button>
       </div>
       <div class="product">
-        <img src="![cubs6ilj9qme4hnpc75g](https://github.com/user-attachments/assets/23f59328-d382-4725-8ad1-8612d75486ac)
-          " alt="Тональный крем">
+        <img src="https://github.com/baikonyserbolatov-blip/projectHTML..../blob/main/img/cubs6ilj9qme4hnpc75g.webp?raw=true" alt="Тональный крем">
         <h3>Тональный крем</h3>
         <p class="price">3000 ₸</p>
         <button onclick="addToCart('Тональный крем', 3000)">В корзину</button>
@@ -189,8 +186,7 @@
         <button onclick="addToCart('Парфюм', 7500)">В корзину</button>
       </div>
       <div class="product">
-        <img src="![1](https://github.com/user-attachments/assets/153e53f9-f939-4852-8b61-fa807c299ef9)
-" alt="Сыворотка">
+        <img src="https://github.com/baikonyserbolatov-blip/projectHTML..../blob/main/img/1.webp?raw=true" alt="Сыворотка">
         <h3>Сыворотка для лица</h3>
         <p class="price">4200 ₸</p>
         <button onclick="addToCart('Сыворотка для лица', 4200)">В корзину</button>
@@ -202,22 +198,19 @@
         <button onclick="addToCart('Пудра', 2100)">В корзину</button>
       </div>
       <div class="product">
-        <img src="![Kachel_Nail-Polish-Trends](https://github.com/user-attachments/assets/20ced9a7-1900-44c6-b4c6-93ca88b29ed4)
-" alt="Лак для ногтей">
+        <img src="https://github.com/baikonyserbolatov-blip/projectHTML..../blob/main/img/Kachel_Nail-Polish-Trends.jpg?raw=true" alt="Лак для ногтей">
         <h3>Лак для ногтей</h3>
         <p class="price">900 ₸</p>
         <button onclick="addToCart('Лак для ногтей', 900)">В корзину</button>
       </div>
       <div class="product">
-        <img src="![post](https://github.com/user-attachments/assets/7ef2269a-5387-4ec2-a8ac-bcb0a4123c93)
-" alt="Карандаш для глаз">
+        <img src="https://github.com/baikonyserbolatov-blip/projectHTML..../blob/main/img/post.jpg?raw=true" alt="Карандаш для глаз">
         <h3>Карандаш для глаз</h3>
         <p class="price">1500 ₸</p>
         <button onclick="addToCart('Карандаш для глаз', 1500)">В корзину</button>
       </div>
       <div class="product">
-        <img src="![post-Blesk-Balzam-novyj-1](https://github.com/user-attachments/assets/4b9edb77-ca0e-4e6b-a778-c5f0eae34ee5)
-" alt="Бальзам для губ">
+        <img src="https://github.com/baikonyserbolatov-blip/projectHTML..../blob/main/img/post-Blesk-Balzam-novyj-1.jpg?raw=true" alt="Бальзам для губ">
         <h3>Бальзам для губ</h3>
         <p class="price">1200 ₸</p>
         <button onclick="addToCart('Бальзам для губ', 1200)">В корзину</button>
